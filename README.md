@@ -3,11 +3,12 @@ web dev may 29 w1d1
 
 #TODO
 #little to dos
-- create *application*
+- create an *application* in js
+- app will read two numbers from the command line
+- multiply
+- show results
 - Go home.
 
 ```
-code() {
-	//this could be code
-}
+
 ```
