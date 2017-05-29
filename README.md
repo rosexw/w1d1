@@ -10,5 +10,6 @@ web dev may 29 w1d1
 - Go home.
 
 ```
+node multiply.js 2 3
 
 ```
